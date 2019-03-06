@@ -2,7 +2,9 @@
 
 In this project, we used measurements of the magnesium (Mg) and calcium (Ca) content of natural calcite crystals from 
 deep-sea sediments to infer the thermodynamics of how the Mg/Ca ratio of calcite crystals varies with
-the Mg/Ca ratio of the growth fluid at near-equilibrium conditions.
+the Mg/Ca ratio of the growth fluid at near-equilibrium conditions. This work culminated in a manuscript 
+(Lammers & Mitnick, 2019) published in the Earth Science journal "Geochimica et Cosmochimica Acta" 
+and can be accessed here: https://doi.org/10.1016/j.gca.2019.01.006
 
 Earth Scientists want to understand the fundamentals of crystal growth in nature
 and how the composition of calcite can tell us about what was going on in the surrounding
